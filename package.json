@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "json:server": "json-server --watch database.json",
-    "json:remote-schema":"json-server http://jsonplaceholder.typicode.com/db"
+    "json:remote-schema": "json-server http://jsonplaceholder.typicode.com/db"
   },
   "author": "e",
   "license": "ISC",
