@@ -1,4 +1,4 @@
 # JSON-Server
 REST API using JSON-Server
 
-## For documentation and queries :  https://github.com/typicode/json-server 
+## For documentation : https://github.com/typicode/json-server 
